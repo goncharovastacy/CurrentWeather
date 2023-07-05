@@ -18,7 +18,7 @@ function getWeatherInfo(city) {
       if (!res.ok) {
         throw new Error('Sorry, something went wrong. Please try again.');
       }
-      return res.json()
+      return res.json();
     })
     .then(obj => {
       addDescription(obj);
