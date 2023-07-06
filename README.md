@@ -1,11 +1,11 @@
-# WeatherApp
+# Current Weather
 
 <p>It’s a simple weather app. Just enter a city name and get a current forecast. <br>
 The app uses https://www.weatherapi.com/. </p>
 
 ## Result:
 
-https://goncharovastacy.github.io/WeatherApp/
+https://goncharovastacy.github.io/CurrentWeather/
 
 <img src="./assets/readme/screen.png" width="70%">
 
