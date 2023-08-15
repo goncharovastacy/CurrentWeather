@@ -1,7 +1,7 @@
 # Current Weather
 
-<p>It’s a simple weather app. Just enter a city name and get a current forecast. <br>
-The app uses https://www.weatherapi.com/. </p>
+<p>It’s a simple weather app. You need to enter a city name and you will get a current forecast. <br>
+The app uses https://www.weatherapi.com/ API. </p>
 
 ## Result:
 
